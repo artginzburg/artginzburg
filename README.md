@@ -1,21 +1,16 @@
-### Hey there, I'm Art Ginzburg 👋
-
-## trying myself as a Developer
-
-- ⚡ currently learning everything ⚡
-- ℹ️ looking to collaborate with other content creators
-- 🤖 jr bot and web developer 📱
-- 📺 also good at cinematography, video editing (thx to IB DP)
-- can easily understand and create complex structures
+- Is looking for collaboration
+- Dives into bot development
+- Also good at cinematography 📺
+- Easily understands and creates complex structures
  
-### Connection:
+### Contacts
 
 [<img align="left" alt="art.ginzburg | Instagram" width="22px" src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c521.png" />][instagram]
-[<img align="left" alt="DaFuqtor | Steam" width="22px" src="https://community.cloudflare.steamstatic.com/public/shared/images/responsive/share_steam_logo.png">][steam]
+[<img align="left" alt="artginzburg | Steam" width="22px" src="https://community.cloudflare.steamstatic.com/public/shared/images/responsive/share_steam_logo.png">][steam]
 
-<br />
+<br>
 
-### Languages and Tools:
+### Languages and Tools
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 
@@ -37,13 +32,22 @@
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br />
-<br />
+<br>
+
+### Education
+- [Yandex.Praktikum][yapraktikum] | Jan, 2021 - Current
+  > Web-Developer
+
+- [International Baccalaureate® (IB) Diploma Programme (DP)][ibdp] | Sep, 2018 - Jun, 2020
+  > Film · Computer Science · Business & Management
+
+<br>
+<br>
 
 ---
 
 [instagram]: https://www.instagram.com/art.ginzburg/
-[steam]: https://steamcommunity.com/id/DaFuqtor
+[steam]: https://steamcommunity.com/id/artginzburg
 [vscode]: https://code.visualstudio.com/
 [html]: https://ru.wikipedia.org/wiki/HTML5
 [css]: https://ru.wikipedia.org/wiki/CSS
@@ -53,3 +57,5 @@
 [mongo]: https://www.mongodb.com/
 [git]: https://git-scm.com/
 [github]: https://github.com/
+[yapraktikum]: https://praktikum.yandex.ru/
+[ibdp]: https://www.ibo.org/programmes/diploma-programme/
