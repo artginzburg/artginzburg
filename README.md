@@ -5,8 +5,9 @@
  
 ### Contacts
 
-[<img align="left" alt="art.ginzburg | Instagram" width="22px" src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c521.png" />][instagram]
-[<img align="left" alt="artginzburg | Steam" width="22px" src="https://community.cloudflare.steamstatic.com/public/shared/images/responsive/share_steam_logo.png">][steam]
+[<img align="left" alt="art.ginzburg | Instagram" width="22px" src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c521.png">][instagram]
+[<img align="left" alt="artginzburg | Steam" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/1024px-Steam_icon_logo.svg.png">][steam]
+[<img align="left" alt="ginzburgart | Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png">][telegram]
 
 <br>
 
@@ -36,7 +37,7 @@
 
 ### Education
 - [Yandex.Praktikum][yapraktikum] | Jan, 2021 - Current
-  > Web-Developer
+  > Web-Developer &nbsp; <kbd>[Portfolio][yapraktikum-webdev-portfolio]</kbd>
 
 - [International Baccalaureate® (IB) Diploma Programme (DP)][ibdp] | Sep, 2018 - Jun, 2020
   > Film · Computer Science · Business & Management
@@ -48,6 +49,7 @@
 
 [instagram]: https://www.instagram.com/art.ginzburg/
 [steam]: https://steamcommunity.com/id/artginzburg
+[telegram]: https://t.me/ginzburgart
 [vscode]: https://code.visualstudio.com/
 [html]: https://ru.wikipedia.org/wiki/HTML5
 [css]: https://ru.wikipedia.org/wiki/CSS
@@ -58,4 +60,5 @@
 [git]: https://git-scm.com/
 [github]: https://github.com/
 [yapraktikum]: https://praktikum.yandex.ru/
+[yapraktikum-webdev-portfolio]: https://github.com/artginzburg/yandex.praktikum-portfolio
 [ibdp]: https://www.ibo.org/programmes/diploma-programme/
