@@ -1,7 +1,8 @@
+19-year-old Junior Developer from Moscow
+
 - Is looking for collaboration
 - Dives into bot development
 - Also good at cinematography 📺
-- Easily understands and creates complex structures
  
 ### Contacts
 
@@ -41,6 +42,16 @@
 
 - [International Baccalaureate® (IB) Diploma Programme (DP)][ibdp] | Sep, 2018 - Jun, 2020
   > Film · Computer Science · Business & Management
+
+### Technical skills
+Database management · Statistical analysis · User interface intuitive design
+
+### Life skills
+Critical thinking · Listening · Making others think hard
+
+### Languages
+
+English <sup>9/10</sup> · Russian <sup>10/10</sup> · JavaScript <sup>8/10</sup> · Swift <sup>6/10</sup> · Shell script <sup>6/10</sup>
 
 <br>
 <br>
