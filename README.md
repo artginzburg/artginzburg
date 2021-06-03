@@ -51,7 +51,9 @@ Critical thinking · Listening · Making others think hard
 
 ### Languages
 
-English <sup>9/10</sup> · Russian <sup>10/10</sup> · JavaScript <sup>8/10</sup> · Swift <sup>6/10</sup> · Shell script <sup>6/10</sup>
+English <sup>9/10</sup> · Russian <sup>10/10</sup>
+
+JavaScript <sup>8/10</sup> · Swift <sup>6/10</sup> · Shell script <sup>6/10</sup>
 
 <br>
 <br>
