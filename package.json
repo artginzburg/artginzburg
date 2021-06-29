@@ -1,0 +1,23 @@
+{
+  "name": "artginzburg",
+  "version": "1.0.0",
+  "description": "19-year-old Junior Developer from Moscow",
+  "scripts": {
+    "generate:readme": "ts-node src/index.tsx",
+    "start": "npm run generate:readme"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artginzburg/artginzburg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artginzburg/artginzburg/issues"
+  },
+  "homepage": "https://github.com/artginzburg/artginzburg#readme",
+  "devDependencies": {
+    "jsx-readme": "^1.12.0",
+    "ts-node": "^10.0.0"
+  }
+}

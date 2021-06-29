@@ -3,7 +3,7 @@
 - Is looking for collaboration
 - Dives into bot development
 - Also good at cinematography 📺
- 
+
 ### Contacts
 
 [<img align="left" alt="art.ginzburg | Instagram" width="22px" src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c521.png">][instagram]
@@ -37,16 +37,20 @@
 <br>
 
 ### Education
+
 - [Yandex.Praktikum][yapraktikum] | Jan, 2021 - Current
+
   > Web-Developer &nbsp; <kbd>[Portfolio][yapraktikum-webdev-portfolio]</kbd>
 
 - [International Baccalaureate® (IB) Diploma Programme (DP)][ibdp] | Sep, 2018 - Jun, 2020
   > Film · Computer Science · Business & Management
 
 ### Technical skills
+
 Database management · Statistical analysis · User interface intuitive design
 
 ### Life skills
+
 Critical thinking · Listening · Making others think hard
 
 ### Languages
