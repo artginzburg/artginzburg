@@ -3,7 +3,7 @@
 // functions from jsx-md
 /* @jsx MD */
 /* @jsxFrag Fragment */
-import MD, { Component, Fragment, Heading, LineBreak, render, Text } from 'jsx-md';
+import MD, { render } from 'jsx-md';
 import { writeFileSync } from 'fs';
 
 import Readme from './components/README.md';

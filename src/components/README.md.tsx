@@ -3,8 +3,7 @@
 // functions from jsx-md
 /* @jsx MD */
 /* @jsxFrag Fragment */
-import MD, { Component, Fragment, Heading, LineBreak, render, Text } from 'jsx-md';
-import { writeFileSync } from 'fs';
+import MD, { Component, Fragment, Heading, LineBreak, } from 'jsx-md';
 import pkg from '../../package.json';
  
 const Readme: Component = () => (
