@@ -1,8 +1,10 @@
 /* @jsx MD */
 /* @jsxFrag Fragment */
-import MD, { Component, Fragment, Heading, LineBreak, Image } from 'jsx-md';
+import MD, { Component, Fragment, Heading, LineBreak } from 'jsx-md';
 import pkg from '../../package.json';
 import UnorderedList from './UnorderedList';
+import Img from './Img';
+import LinkWithLabel from './LinkWithLabel';
 
 const Readme: Component = () => (
   <>
@@ -16,16 +18,14 @@ const Readme: Component = () => (
     </UnorderedList>
     <LineBreak />
     <Heading level={3}>Contacts</Heading>
-    <LineBreak />
-    <Image
-      children=""
-      title="art.ginzburg | Instagram"
-      // align="left"
-      // width="22px"
-      src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c521.png"
-    >
-      https://lol.com
-    </Image>
+    <LinkWithLabel to="instagram">
+      <Img
+        align="left"
+        title="art.ginzburg | Instagram"
+        width="22px"
+        src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c521.png"
+      />
+    </LinkWithLabel>
   </>
 );
 
