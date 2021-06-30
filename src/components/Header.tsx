@@ -4,7 +4,7 @@ import MD, { Fragment, LineBreak } from 'jsx-md';
 
 import pkg from '../../package.json';
 
-import UnorderedList from './UnorderedList';
+import UnorderedList from './jsx-md/UnorderedList';
 
 function Header() {
   return (

@@ -4,8 +4,8 @@ import MD, { Fragment, LineBreak } from 'jsx-md';
 
 import links from '../utils/links';
 
-import Br from './Br';
-import LinkReferences from './LinkReferences';
+import Br from './jsx-md/Br';
+import LinkReferences from './jsx-md/LinkReferences';
 
 function Footer() {
   return (
