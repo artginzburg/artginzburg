@@ -9,6 +9,7 @@ import links from '../utils/links';
 import UnorderedListItem from './UnorderedListItem';
 import Img from './Img';
 import LinkWithLabel from './LinkWithLabel';
+import LinkReference from './LinkReference';
 import Br from './Br';
 
 function renderLinks() {
@@ -16,7 +17,7 @@ function renderLinks() {
   for (const key in links) {
     if (Object.prototype.hasOwnProperty.call(links, key)) {
       const el = links[key];
-      stringifiedLinks.push(`[${key}]: ${el}`);
+      stringifiedLinks.push(<LinkReference refName={key}>{el}</LinkReference>);
       stringifiedLinks.push(<LineBreak />);
     }
   }

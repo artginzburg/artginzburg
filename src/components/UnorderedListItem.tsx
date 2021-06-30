@@ -5,8 +5,7 @@ import MD, { Fragment, LineBreak } from 'jsx-md';
 export default props => {
   return (
     <>
-      {'* '}
-      {props.children}
+      * {props.children}
       <LineBreak />
     </>
   );
