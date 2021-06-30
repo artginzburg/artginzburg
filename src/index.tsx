@@ -6,10 +6,10 @@
 import MD, { render } from 'jsx-md';
 import { writeFileSync } from 'fs';
 
-import Readme from './components/README.md';
- 
+import Readme from './components/Readme';
+
 async function writeReadme() {
   writeFileSync('README.md', await render(<Readme />));
 }
- 
+
 void writeReadme();
