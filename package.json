@@ -4,7 +4,9 @@
   "description": "19-year-old Junior Developer from Moscow",
   "scripts": {
     "generate:readme": "ts-node src/index.tsx",
-    "start": "npm run generate:readme"
+    "build": "npm run generate:readme",
+    "start": "npm run watch",
+    "watch": "watch 'npm run build' ./src"
   },
   "repository": {
     "type": "git",
@@ -18,6 +20,7 @@
   "homepage": "https://github.com/artginzburg/artginzburg#readme",
   "devDependencies": {
     "jsx-md": "^4.0.1",
-    "ts-node": "^10.0.0"
+    "ts-node": "^10.0.0",
+    "watch": "^1.0.2"
   }
 }
