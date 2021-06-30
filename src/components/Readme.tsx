@@ -10,22 +10,9 @@ import UnorderedList from './UnorderedList';
 import UnorderedListItem from './UnorderedListItem';
 import Img from './Img';
 import LinkWithLabel from './LinkWithLabel';
-import LinkReference from './LinkReference';
+import LinkReferences from './LinkReferences';
 import Br from './Br';
 import OneLineList from './OneLineList';
-
-function renderLinks() {
-  const stringifiedLinks = [];
-  for (const key in links) {
-    if (Object.prototype.hasOwnProperty.call(links, key)) {
-      const el = links[key];
-      stringifiedLinks.push(<LinkReference refName={key}>{el}</LinkReference>);
-      stringifiedLinks.push(<LineBreak />);
-    }
-  }
-  stringifiedLinks.pop();
-  return stringifiedLinks;
-}
 
 const Readme: Component = () => (
   <>
@@ -181,10 +168,17 @@ const Readme: Component = () => (
     <LineBreak />
     <LineBreak />
     <Heading level={3}>Languages</Heading>
-    {'English <sup>9/10</sup> · Russian <sup>10/10</sup>'}
+    <OneLineList>
+      {'English <sup>9/10</sup>'}
+      {'Russian <sup>10/10</sup>'}
+    </OneLineList>
     <LineBreak />
     <LineBreak />
-    {'JavaScript <sup>8/10</sup> · Swift <sup>6/10</sup> · Shell script <sup>6/10</sup>'}
+    <OneLineList>
+      {'JavaScript <sup>8/10</sup>'}
+      {'Swift <sup>6/10</sup>'}
+      {'Shell script <sup>6/10</sup>'}
+    </OneLineList>
     <LineBreak />
     <LineBreak />
     <Br />
@@ -195,7 +189,7 @@ const Readme: Component = () => (
     ---
     <LineBreak />
     <LineBreak />
-    {renderLinks()}
+    <LinkReferences>{links}</LinkReferences>
     <LineBreak />
   </>
 );
