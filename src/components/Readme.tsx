@@ -152,7 +152,11 @@ const Readme: Component = () => (
       <LineBreak />
       <LineBreak />
       {'  > '}
-      Film · Computer Science · Business & Management
+      <OneLineList>
+        <>Film</>
+        <>Computer Science</>
+        <>Business & Management</>
+      </OneLineList>
       <LineBreak />
     </UnorderedListItem>
     <Heading level={3}>Technical skills</Heading>
@@ -164,7 +168,11 @@ const Readme: Component = () => (
     <LineBreak />
     <LineBreak />
     <Heading level={3}>Life skills</Heading>
-    Critical thinking · Listening · Making others think hard
+    <OneLineList>
+      <>Critical thinking</>
+      <>Listening</>
+      <>Making others think hard</>
+    </OneLineList>
     <LineBreak />
     <LineBreak />
     <Heading level={3}>Languages</Heading>
