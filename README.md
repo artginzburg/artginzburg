@@ -29,7 +29,7 @@
 
 * [Yandex.Praktikum][yapraktikum] | Jan, 2021 - Current
 
-  > Web-Developer &nbsp; <kbd>[Portfolio][yapraktikum-webdev-portfolio]</kbd>
+  > Web-Developer &nbsp; <kbd>[Portfolio][yapraktikum-webdev-portfolio]</kbd>
 
 * [International Baccalaureate® (IB) Diploma Programme (DP)][ibdp] | Sep, 2018 - Jun, 2020
 
@@ -64,8 +64,6 @@ JavaScript <sup>8/10</sup> · Swift <sup>6/10</sup> · Shell script <sup>6/10</s
 [react]: https://reactjs.org/
 [nodejs]: https://nodejs.org/en/
 [mongo]: https://www.mongodb.com/
-[git]: https://git-scm.com/
-[github]: https://github.com/
 [yapraktikum]: https://praktikum.yandex.ru/
 [yapraktikum-webdev-portfolio]: https://github.com/artginzburg/yandex.praktikum-portfolio
 [ibdp]: https://www.ibo.org/programmes/diploma-programme/

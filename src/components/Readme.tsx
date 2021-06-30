@@ -1,30 +1,15 @@
 /* @jsx MD */
 /* @jsxFrag Fragment */
 import MD, { Component, Fragment, Heading, LineBreak } from 'jsx-md';
+
 import pkg from '../../package.json';
-import UnorderedList from './UnorderedList';
+
+import links from '../utils/links';
+
+import UnorderedListItem from './UnorderedListItem';
 import Img from './Img';
 import LinkWithLabel from './LinkWithLabel';
-
-const Br = () => '<br>';
-
-const links = {
-  instagram: 'https://www.instagram.com/art.ginzburg/',
-  steam: 'https://steamcommunity.com/id/artginzburg',
-  telegram: 'https://t.me/ginzburgart',
-  vscode: 'https://code.visualstudio.com/',
-  html: 'https://ru.wikipedia.org/wiki/HTML5',
-  css: 'https://ru.wikipedia.org/wiki/CSS',
-  js: 'https://www.javascript.com/',
-  react: 'https://reactjs.org/',
-  nodejs: 'https://nodejs.org/en/',
-  mongo: 'https://www.mongodb.com/',
-  git: 'https://git-scm.com/',
-  github: 'https://github.com/',
-  yapraktikum: 'https://praktikum.yandex.ru/',
-  'yapraktikum-webdev-portfolio': 'https://github.com/artginzburg/yandex.praktikum-portfolio',
-  ibdp: 'https://www.ibo.org/programmes/diploma-programme/',
-};
+import Br from './Br';
 
 function renderLinks() {
   const stringifiedLinks = [];
@@ -35,6 +20,7 @@ function renderLinks() {
       stringifiedLinks.push(<LineBreak />);
     }
   }
+  stringifiedLinks.pop();
   return stringifiedLinks;
 }
 
@@ -43,11 +29,9 @@ const Readme: Component = () => (
     {pkg.description}
     <LineBreak />
     <LineBreak />
-    <UnorderedList>
-      {'Is looking for collaboration'}
-      {'Dives into bot development'}
-      {'Also good at cinematography 📺'}
-    </UnorderedList>
+    <UnorderedListItem>Is looking for collaboration</UnorderedListItem>
+    <UnorderedListItem>Dives into bot development</UnorderedListItem>
+    <UnorderedListItem>Also good at cinematography 📺</UnorderedListItem>
     <LineBreak />
     <Heading level={3}>Contacts</Heading>
     <LinkWithLabel to="instagram">
@@ -157,27 +141,28 @@ const Readme: Component = () => (
     <LineBreak />
     <LineBreak />
     <Heading level={3}>Education</Heading>
-    {'* '}
-    <LinkWithLabel to="yapraktikum">Yandex.Praktikum</LinkWithLabel> | Jan, 2021 - Current
-    <LineBreak />
-    <LineBreak />
-    {'  > '}
-    Web-Developer &amp;nbsp; {'<kbd>'}
-    <LinkWithLabel to="yapraktikum-webdev-portfolio">Portfolio</LinkWithLabel>
-    {'</kbd>'}
-    <LineBreak />
-    <LineBreak />
-    {'* '}
-    <LinkWithLabel to="ibdp">
-      International Baccalaureate® (IB) Diploma Programme (DP)
-    </LinkWithLabel>{' '}
-    | Sep, 2018 - Jun, 2020
-    <LineBreak />
-    <LineBreak />
-    {'  > '}
-    Film · Computer Science · Business & Management
-    <LineBreak />
-    <LineBreak />
+    <UnorderedListItem>
+      <LinkWithLabel to="yapraktikum">Yandex.Praktikum</LinkWithLabel> | Jan, 2021 - Current
+      <LineBreak />
+      <LineBreak />
+      {'  > '}
+      Web-Developer &amp;nbsp;&nbsp;
+      {'<kbd>'}
+      <LinkWithLabel to="yapraktikum-webdev-portfolio">Portfolio</LinkWithLabel>
+      {'</kbd>'}
+      <LineBreak />
+    </UnorderedListItem>
+    <UnorderedListItem>
+      <LinkWithLabel to="ibdp">
+        International Baccalaureate® (IB) Diploma Programme (DP)
+      </LinkWithLabel>{' '}
+      | Sep, 2018 - Jun, 2020
+      <LineBreak />
+      <LineBreak />
+      {'  > '}
+      Film · Computer Science · Business & Management
+      <LineBreak />
+    </UnorderedListItem>
     <Heading level={3}>Technical skills</Heading>
     Database management · Statistical analysis · User interface intuitive design
     <LineBreak />
@@ -202,6 +187,7 @@ const Readme: Component = () => (
     <LineBreak />
     <LineBreak />
     {renderLinks()}
+    <LineBreak />
   </>
 );
 
