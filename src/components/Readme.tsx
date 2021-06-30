@@ -1,27 +1,19 @@
-// We need to tell the JSX transpiler that in this file,
-// instead of React we use the custom createElement and Fragment
-// functions from jsx-md
 /* @jsx MD */
 /* @jsxFrag Fragment */
-import MD, { Component, Fragment, Heading, LineBreak, UnorderedList, Image } from 'jsx-md';
+import MD, { Component, Fragment, Heading, LineBreak, Image } from 'jsx-md';
 import pkg from '../../package.json';
-
-const UnorderedListFIX = props => (
-  <UnorderedList {...props} children={[]}>
-    {props.children}
-  </UnorderedList>
-);
+import UnorderedList from './UnorderedList';
 
 const Readme: Component = () => (
   <>
     {pkg.description}
     <LineBreak />
     <LineBreak />
-    <UnorderedListFIX>
+    <UnorderedList>
       {'Is looking for collaboration'}
       {'Dives into bot development'}
       {'Also good at cinematography 📺'}
-    </UnorderedListFIX>
+    </UnorderedList>
     <LineBreak />
     <Heading level={3}>Contacts</Heading>
     <LineBreak />
