@@ -6,11 +6,13 @@ import pkg from '../../package.json';
 
 import links from '../utils/links';
 
+import UnorderedList from './UnorderedList';
 import UnorderedListItem from './UnorderedListItem';
 import Img from './Img';
 import LinkWithLabel from './LinkWithLabel';
 import LinkReference from './LinkReference';
 import Br from './Br';
+import OneLineList from './OneLineList';
 
 function renderLinks() {
   const stringifiedLinks = [];
@@ -30,9 +32,11 @@ const Readme: Component = () => (
     {pkg.description}
     <LineBreak />
     <LineBreak />
-    <UnorderedListItem>Is looking for collaboration</UnorderedListItem>
-    <UnorderedListItem>Dives into bot development</UnorderedListItem>
-    <UnorderedListItem>Also good at cinematography 📺</UnorderedListItem>
+    <UnorderedList>
+      <>Is looking for collaboration</>
+      <>Dives into bot development</>
+      <>Also good at cinematography 📺</>
+    </UnorderedList>
     <LineBreak />
     <Heading level={3}>Contacts</Heading>
     <LinkWithLabel to="instagram">
@@ -165,7 +169,11 @@ const Readme: Component = () => (
       <LineBreak />
     </UnorderedListItem>
     <Heading level={3}>Technical skills</Heading>
-    Database management · Statistical analysis · User interface intuitive design
+    <OneLineList>
+      <>Database management</>
+      <>Statistical analysis</>
+      <>User interface intuitive design</>
+    </OneLineList>
     <LineBreak />
     <LineBreak />
     <Heading level={3}>Life skills</Heading>
