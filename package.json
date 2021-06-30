@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/artginzburg/artginzburg#readme",
   "devDependencies": {
-    "jsx-readme": "^1.12.0",
+    "jsx-md": "^4.0.1",
     "ts-node": "^10.0.0"
   }
 }
