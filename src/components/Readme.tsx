@@ -2,29 +2,17 @@
 /* @jsxFrag Fragment */
 import MD, { Component, Fragment, Heading, LineBreak } from 'jsx-md';
 
-import pkg from '../../package.json';
-
-import links from '../utils/links';
-
-import UnorderedList from './UnorderedList';
 import UnorderedListItem from './UnorderedListItem';
 import Img from './Img';
 import LinkWithLabel from './LinkWithLabel';
-import LinkReferences from './LinkReferences';
 import Br from './Br';
 import OneLineList from './OneLineList';
+import Header from './Header';
+import Footer from './Footer';
 
 const Readme: Component = () => (
   <>
-    {pkg.description}
-    <LineBreak />
-    <LineBreak />
-    <UnorderedList>
-      <>Is looking for collaboration</>
-      <>Dives into bot development</>
-      <>Also good at cinematography 📺</>
-    </UnorderedList>
-    <LineBreak />
+    <Header />
     <Heading level={3}>Contacts</Heading>
     <LinkWithLabel to="instagram">
       <Img
@@ -187,18 +175,7 @@ const Readme: Component = () => (
       {'Swift <sup>6/10</sup>'}
       {'Shell script <sup>6/10</sup>'}
     </OneLineList>
-    <LineBreak />
-    <LineBreak />
-    <Br />
-    <LineBreak />
-    <Br />
-    <LineBreak />
-    <LineBreak />
-    ---
-    <LineBreak />
-    <LineBreak />
-    <LinkReferences>{links}</LinkReferences>
-    <LineBreak />
+    <Footer />
   </>
 );
 
