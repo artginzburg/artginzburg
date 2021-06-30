@@ -4,7 +4,7 @@ import MD from 'jsx-md';
 import ListItem from './ListItem';
 
 const defaults = {
-  style: '*',
+  style: '>',
 };
 
 export default props => {

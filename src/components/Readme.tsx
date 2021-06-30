@@ -3,6 +3,7 @@
 import MD, { Component, Fragment, Heading, LineBreak } from 'jsx-md';
 
 import UnorderedListItem from './UnorderedListItem';
+import QuoteBlockListItem from './QuoteBlockListItem';
 import Img from './Img';
 import LinkWithLabel from './LinkWithLabel';
 import Br from './Br';
@@ -125,12 +126,13 @@ const Readme: Component = () => (
       <LinkWithLabel to="yapraktikum">Yandex.Praktikum</LinkWithLabel> | Jan, 2021 - Current
       <LineBreak />
       <LineBreak />
-      {'  > '}
-      Web-Developer &amp;nbsp;&nbsp;
-      {'<kbd>'}
-      <LinkWithLabel to="yapraktikum-webdev-portfolio">Portfolio</LinkWithLabel>
-      {'</kbd>'}
-      <LineBreak />
+      {'  '}
+      <QuoteBlockListItem>
+        Web-Developer &amp;nbsp;&nbsp;
+        {'<kbd>'}
+        <LinkWithLabel to="yapraktikum-webdev-portfolio">Portfolio</LinkWithLabel>
+        {'</kbd>'}
+      </QuoteBlockListItem>
     </UnorderedListItem>
     <UnorderedListItem>
       <LinkWithLabel to="ibdp">
@@ -139,13 +141,14 @@ const Readme: Component = () => (
       | Sep, 2018 - Jun, 2020
       <LineBreak />
       <LineBreak />
-      {'  > '}
-      <OneLineList>
-        <>Film</>
-        <>Computer Science</>
-        <>Business & Management</>
-      </OneLineList>
-      <LineBreak />
+      {'  '}
+      <QuoteBlockListItem>
+        <OneLineList>
+          <>Film</>
+          <>Computer Science</>
+          <>Business & Management</>
+        </OneLineList>
+      </QuoteBlockListItem>
     </UnorderedListItem>
     <Heading level={3}>Technical skills</Heading>
     <OneLineList>
