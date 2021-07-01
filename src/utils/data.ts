@@ -1,5 +1,5 @@
 const data = {
-  birthday: new Date(Date.parse('25 Mar 2002')),
+  birthday: new Date('25 Mar 2002'),
   age: undefined,
 };
 
