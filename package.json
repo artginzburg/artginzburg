@@ -1,7 +1,7 @@
 {
   "name": "artginzburg",
   "version": "1.0.0",
-  "description": "19-year-old Junior Developer from Moscow",
+  "description": "Junior Developer from Moscow",
   "scripts": {
     "generate:readme": "ts-node src/index.tsx",
     "build": "npm run generate:readme",
