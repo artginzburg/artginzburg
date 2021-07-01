@@ -1,17 +1,27 @@
-const links = {
-  instagram: 'https://www.instagram.com/art.ginzburg/',
-  steam: 'https://steamcommunity.com/id/artginzburg',
-  telegram: 'https://t.me/ginzburgart',
-  vscode: 'https://code.visualstudio.com/',
-  html: 'https://ru.wikipedia.org/wiki/HTML5',
-  css: 'https://ru.wikipedia.org/wiki/CSS',
-  js: 'https://www.javascript.com/',
-  react: 'https://reactjs.org/',
-  nodejs: 'https://nodejs.org/en/',
-  mongo: 'https://www.mongodb.com/',
-  yapraktikum: 'https://praktikum.yandex.ru/',
-  'yapraktikum-webdev-portfolio': 'https://github.com/artginzburg/yandex.praktikum-portfolio',
-  ibdp: 'https://www.ibo.org/programmes/diploma-programme/',
+const defaults = {
+  proto: 'https://',
 };
+
+const links = {
+  instagram: 'www.instagram.com/art.ginzburg/',
+  steam: 'steamcommunity.com/id/artginzburg',
+  telegram: 't.me/ginzburgart',
+  vscode: 'code.visualstudio.com/',
+  html: 'ru.wikipedia.org/wiki/HTML5',
+  css: 'ru.wikipedia.org/wiki/CSS',
+  js: 'www.javascript.com/',
+  react: 'reactjs.org/',
+  nodejs: 'nodejs.org/en/',
+  mongo: 'www.mongodb.com/',
+  yapraktikum: 'praktikum.yandex.ru/',
+  'yapraktikum-webdev-portfolio': 'github.com/artginzburg/yandex.praktikum-portfolio',
+  ibdp: 'www.ibo.org/programmes/diploma-programme/',
+};
+
+for (const key in links) {
+  if (Object.prototype.hasOwnProperty.call(links, key)) {
+    links[key] = defaults.proto + links[key];
+  }
+}
 
 export default links;
