@@ -7,6 +7,7 @@ import UnorderedListItem from './jsx-md/UnorderedListItem';
 import QuoteBlockListItem from './jsx-md/QuoteBlockListItem';
 import OneLineList from './jsx-md/OneLineList';
 import IndentItem from './jsx-md/IndentItem';
+import Kbd from './jsx-md/Kbd';
 
 function Education() {
   return (
@@ -20,9 +21,9 @@ function Education() {
         <IndentItem value="2">
           <QuoteBlockListItem>
             Web-Developer &amp;nbsp;&nbsp;
-            {'<kbd>'}
-            <LinkWithLabel to="yapraktikum-webdev-portfolio">Portfolio</LinkWithLabel>
-            {'</kbd>'}
+            <Kbd>
+              <LinkWithLabel to="yapraktikum-webdev-portfolio">Portfolio</LinkWithLabel>
+            </Kbd>
           </QuoteBlockListItem>
         </IndentItem>
       </UnorderedListItem>
