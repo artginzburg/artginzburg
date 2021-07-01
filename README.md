@@ -6,9 +6,9 @@
 
 ### Contacts
 
-[<img align="left" title="art.ginzburg | Instagram" width="22px" src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c521.png">][instagram]
-[<img align="left" title="artginzburg | Steam" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/1024px-Steam_icon_logo.svg.png">][steam]
-[<img align="left" title="ginzburgart | Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png">][telegram]
+[<img align="left" width="22px" title="art.ginzburg | Instagram" src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c521.png">][instagram]
+[<img align="left" width="22px" title="artginzburg | Steam" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/1024px-Steam_icon_logo.svg.png">][steam]
+[<img align="left" width="22px" title="ginzburgart | Telegram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png">][telegram]
 
 <br>
 
