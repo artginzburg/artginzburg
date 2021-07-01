@@ -18,9 +18,11 @@
     "url": "https://github.com/artginzburg/artginzburg/issues"
   },
   "homepage": "https://github.com/artginzburg/artginzburg#readme",
-  "devDependencies": {
+  "dependencies": {
     "jsx-md": "^4.0.1",
-    "ts-node": "^10.0.0",
+    "ts-node": "^10.0.0"
+  },
+  "devDependencies": {
     "watch": "^1.0.2"
   }
 }
