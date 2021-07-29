@@ -14,6 +14,9 @@ function Header() {
       {`${data.age}-year-old ${pkg.description}`}
       <LineBreak />
       <LineBreak />
+      {`<img align="right" alt="GitHub User's stars" src="https://img.shields.io/github/stars/artginzburg?style=social">`}
+      <LineBreak />
+      <LineBreak />
       <UnorderedList>
         <>Is looking for collaboration</>
         <>Dives into bot development</>

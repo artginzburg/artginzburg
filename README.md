@@ -1,5 +1,7 @@
 19-year-old Junior Developer from Moscow
 
+<img align="right" alt="GitHub User's stars" src="https://img.shields.io/github/stars/artginzburg?style=social">
+
 * Is looking for collaboration
 * Dives into bot development
 * Also good at cinematography 📺
