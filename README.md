@@ -1,16 +1,16 @@
-19-year-old Junior Developer from Moscow
+19yo superpowered Software Engineer from Moscow
 
 <img align="right" alt="GitHub User's stars" src="https://img.shields.io/github/stars/artginzburg?style=social">
 
-* Is looking for collaboration
-* Dives into bot development
-* Also good at cinematography 📺
+* Experienced in Front-end (Mid) & Back-end (Jun) Website Development
+* Dives into bots, automation and pure shell tools
+* Also good at cinematography 📺 (that makes me somewhat of a designer)
 
 ### Contacts
 
-[<img align="left" width="22px" title="art.ginzburg | Instagram" src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c521.png">][instagram]
-[<img align="left" width="22px" title="artginzburg | Steam" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/1024px-Steam_icon_logo.svg.png">][steam]
-[<img align="left" width="22px" title="ginzburgart | Telegram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png">][telegram]
+[<img align="left" width="22px" title="art.ginzburg | Instagram" src="https://i.dlpng.com/static/png/6533778_preview.png">][instagram]
+[<img align="left" width="22px" title="artginzburg | Steam" src="https://toppng.com/public/uploads/thumbnail/ow-white-steam-icon-115629259929xjnhjlwag.png">][steam]
+[<img align="left" width="22px" title="ginzburgart | Telegram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Telegram_X_2019_Logo.svg/2048px-Telegram_X_2019_Logo.svg.png">][telegram]
 
 <br>
 
