@@ -4,7 +4,7 @@
 
 * Middle Fullstack Web dev
 * Dives into bots, automation and pure shell tools
-* Good at cinematography =$gt; shadows and intuitive design
+* Good at cinematography => shadows and intuitive design
 
 ### Contacts
 

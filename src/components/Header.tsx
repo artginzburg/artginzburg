@@ -21,7 +21,7 @@ function Header() {
       <UnorderedList>
         <>Middle Fullstack Web dev</>
         <>Dives into bots, automation and pure shell tools</>
-        <>Good at cinematography =$gt; shadows and intuitive design</>
+        <>Good at cinematography =&gt; shadows and intuitive design</>
       </UnorderedList>
       <LineBreak />
     </>
