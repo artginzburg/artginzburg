@@ -7,6 +7,7 @@ import pkg from '../../package.json';
 import data from '../utils/data';
 
 import UnorderedList from './jsx-md/UnorderedList';
+import Img from './jsx-md/Img';
 
 function Header() {
   return (
@@ -14,13 +15,13 @@ function Header() {
       {`${data.age}yo ${pkg.description}`}
       <LineBreak />
       <LineBreak />
-      {`<img align="right" alt="GitHub User's stars" src="https://img.shields.io/github/stars/artginzburg?style=social">`}
+      <Img align="right" alt="GitHub User's stars" src="https://img.shields.io/github/stars/artginzburg?style=social" />
       <LineBreak />
       <LineBreak />
       <UnorderedList>
-        <>Experienced in Front-end (Mid) & Back-end (Jun) Website Development</>
+        <>Middle Fullstack Web dev</>
         <>Dives into bots, automation and pure shell tools</>
-        <>Also good at cinematography 📺 (that makes me somewhat of a designer)</>
+        <>Good at cinematography =$gt; shadows and intuitive design</>
       </UnorderedList>
       <LineBreak />
     </>

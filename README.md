@@ -2,9 +2,9 @@
 
 <img align="right" alt="GitHub User's stars" src="https://img.shields.io/github/stars/artginzburg?style=social">
 
-* Experienced in Front-end (Mid) & Back-end (Jun) Website Development
+* Middle Fullstack Web dev
 * Dives into bots, automation and pure shell tools
-* Also good at cinematography 📺 (that makes me somewhat of a designer)
+* Good at cinematography =$gt; shadows and intuitive design
 
 ### Contacts
 
