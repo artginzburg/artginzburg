@@ -8,9 +8,11 @@
 
 ### Contacts
 
+[<img title="ginzart | Telegram" src="https://img.shields.io/static/v1?style=flat&message=ginzart&color=black&labelColor=rgba(0,0,0,0)&logo=telegram&label=">][telegram]
+
 [<img align="left" width="22px" title="art.ginzburg | Instagram" src="https://i.dlpng.com/static/png/6533778_preview.png">][instagram]
+[<img align="left" width="22px" title="artginzburg | Mustapp" src="https://mustapp.com/static/images/logo_icon.svg">][mustapp]
 [<img align="left" width="22px" title="artginzburg | Steam" src="https://toppng.com/public/uploads/thumbnail/ow-white-steam-icon-115629259929xjnhjlwag.png">][steam]
-[<img align="left" width="22px" title="ginzburgart | Telegram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Telegram_X_2019_Logo.svg/2048px-Telegram_X_2019_Logo.svg.png">][telegram]
 
 <br>
 
@@ -58,7 +60,8 @@ JavaScript <sup>8/10</sup> · Swift <sup>6/10</sup> · Shell script <sup>6/10</s
 
 [instagram]: https://www.instagram.com/art.ginzburg/
 [steam]: https://steamcommunity.com/id/artginzburg
-[telegram]: https://t.me/ginzburgart
+[telegram]: https://t.me/ginzart
+[mustapp]: https://mustapp.com/@artginzburg
 [vscode]: https://code.visualstudio.com/
 [html]: https://ru.wikipedia.org/wiki/HTML5
 [css]: https://ru.wikipedia.org/wiki/CSS

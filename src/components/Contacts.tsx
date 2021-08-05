@@ -26,21 +26,36 @@ const contacts = [
     src: 'i.dlpng.com/static/png/6533778_preview.png',
   },
   {
+    to: 'mustapp',
+    title: 'artginzburg',
+    src: 'mustapp.com/static/images/logo_icon.svg',
+  },
+  {
     to: 'steam',
     title: 'artginzburg',
     src: 'toppng.com/public/uploads/thumbnail/ow-white-steam-icon-115629259929xjnhjlwag.png',
   },
-  {
-    to: 'telegram',
-    title: 'ginzburgart',
-    src: 'upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Telegram_X_2019_Logo.svg/2048px-Telegram_X_2019_Logo.svg.png',
-  },
 ];
+
+const telegramContact = {
+  to: 'telegram',
+  title: 'ginzart',
+};
 
 function Contacts() {
   return (
     <>
       <Heading level={3}>Contacts</Heading>
+
+      <LinkWithLabel to={telegramContact.to}>
+        <Img
+          title={`${telegramContact.title} | ${capitalizeFirstLetter(telegramContact.to)}`}
+          src={`https://img.shields.io/static/v1?style=flat&message=${telegramContact.title}&color=black&labelColor=rgba(0,0,0,0)&logo=${telegramContact.to}&label=`}
+        />
+      </LinkWithLabel>
+
+      <LineBreak />
+      <LineBreak />
 
       {contacts.map((contact) => {
         const capitalizedTo = capitalizeFirstLetter(contact.to);

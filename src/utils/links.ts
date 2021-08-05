@@ -5,7 +5,8 @@ const defaults = {
 const links = {
   instagram: 'www.instagram.com/art.ginzburg/',
   steam: 'steamcommunity.com/id/artginzburg',
-  telegram: 't.me/ginzburgart',
+  telegram: 't.me/ginzart',
+  mustapp: 'mustapp.com/@artginzburg',
   vscode: 'code.visualstudio.com/',
   html: 'ru.wikipedia.org/wiki/HTML5',
   css: 'ru.wikipedia.org/wiki/CSS',
