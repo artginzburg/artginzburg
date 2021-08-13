@@ -4,8 +4,6 @@ import MD, { Fragment, LineBreak } from 'jsx-md';
 
 import pkg from '../../package.json';
 
-import data from '../utils/data';
-
 import UnorderedList from './jsx-md/UnorderedList';
 import Img from './jsx-md/Img';
 
@@ -21,11 +19,13 @@ function Header() {
         src="https://img.shields.io/github/stars/artginzburg?style=social"
       />
       <LineBreak />
+      {'<a href="https://www.npmjs.com/~artginzburg">'}
       <Img
         align="right"
         alt="NPM Maintainer's downloads"
         src="https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fnpmstalk-fw29jfsdhygw.runkit.sh"
       />
+      {'</a>'}
       <LineBreak />
       <LineBreak />
       <UnorderedList>
