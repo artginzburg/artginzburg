@@ -1,4 +1,4 @@
-19yo superpowered Software Engineer from Moscow
+superpowered Software Engineer from Moscow
 
 <img align="right" alt="GitHub User's stars" src="https://img.shields.io/github/stars/artginzburg?style=social">
 <img align="right" alt="NPM Maintainer's downloads" src="https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fnpmstalk-fw29jfsdhygw.runkit.sh">

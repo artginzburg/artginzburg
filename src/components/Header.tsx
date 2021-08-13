@@ -12,7 +12,7 @@ import Img from './jsx-md/Img';
 function Header() {
   return (
     <>
-      {`${data.age}yo ${pkg.description}`}
+      {`${pkg.description}`}
       <LineBreak />
       <LineBreak />
       <Img
