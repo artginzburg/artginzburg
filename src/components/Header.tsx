@@ -10,7 +10,7 @@ import Img from './jsx-md/Img';
 function Header() {
   return (
     <>
-      {`${pkg.description}`}
+      {pkg.description}
       <LineBreak />
       <LineBreak />
       <Img
@@ -23,7 +23,7 @@ function Header() {
       <Img
         align="right"
         alt="NPM Maintainer's downloads"
-        src="https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fnpmstalk-fw29jfsdhygw.runkit.sh"
+        src="https://img.shields.io/endpoint?style=social&url=https://artginzburg.runkit.io/npmstalk/branches/master"
       />
       {'</a>'}
       <LineBreak />
