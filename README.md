@@ -1,7 +1,7 @@
 superpowered Software Engineer from Moscow
 
 <img align="right" alt="GitHub User's stars" src="https://img.shields.io/github/stars/artginzburg?style=social">
-<a href="https://www.npmjs.com/~artginzburg"><img align="right" alt="NPM Maintainer's downloads" src="https://img.shields.io/endpoint?style=social&url=https://artginzburg.runkit.io/npmstalk/branches/master"></a>
+<a href="https://www.npmjs.com/~artginzburg"><img align="right" alt="NPM Maintainer's downloads" src="https://img.shields.io/endpoint?url=https://artginzburg.runkit.io/npmstalk/branches/master/artginzburg"></a>
 
 * Middle Fullstack Web dev
 * Dives into bots, automation and pure shell tools

@@ -23,7 +23,7 @@ function Header() {
       <Img
         align="right"
         alt="NPM Maintainer's downloads"
-        src="https://img.shields.io/endpoint?style=social&url=https://artginzburg.runkit.io/npmstalk/branches/master"
+        src="https://img.shields.io/endpoint?url=https://artginzburg.runkit.io/npmstalk/branches/master/artginzburg"
       />
       {'</a>'}
       <LineBreak />
