@@ -41,9 +41,9 @@ Intuitive design · Listening · Making others think hard
 
 ### Socials
 
-[<img width="22px" title="art.ginzburg | Instagram" src="https://i.dlpng.com/static/png/6533778_preview.png"><sup> Photos </sup>][instagram]<sup> · </sup>
-[<img width="22px" title="artginzburg | Mustapp" src="https://mustapp.com/static/images/logo_icon.svg"><sup> Films </sup>][mustapp]<sup> · </sup>
-[<img width="22px" title="artginzburg | Steam" src="https://toppng.com/public/uploads/thumbnail/ow-white-steam-icon-115629259929xjnhjlwag.png"><sup> Games </sup>][steam]
+[<img width="21px" title="art.ginzburg | Instagram" src="https://i.dlpng.com/static/png/6533778_preview.png"><sup> Photos </sup>][instagram]<sup> · </sup>
+[<img width="21px" title="artginzburg | Mustapp" src="https://mustapp.com/static/images/logo_icon.svg"><sup> Films </sup>][mustapp]<sup> · </sup>
+[<img width="21px" title="artginzburg | Steam" src="https://toppng.com/public/uploads/thumbnail/ow-white-steam-icon-115629259929xjnhjlwag.png"><sup> Games </sup>][steam]
 
 <div align="right">
 <a href="https://www.codewars.com/users/artginzburg"><img src="https://www.codewars.com/users/artginzburg/badges/micro" title="Codewars"></a>

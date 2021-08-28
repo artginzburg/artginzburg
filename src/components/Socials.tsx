@@ -7,7 +7,7 @@ import Img from './jsx-md/Img';
 
 const capitalizeFirstLetter = (string) => string.charAt(0).toUpperCase() + string.slice(1);
 
-const DefaultImg = (props) => <Img width="22px" {...props} />;
+const DefaultImg = (props) => <Img width="21px" {...props} />;
 
 const DefaultLinkWithLabel = (props) => (
   <>
