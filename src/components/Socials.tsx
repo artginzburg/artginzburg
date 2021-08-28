@@ -4,8 +4,6 @@ import MD, { Fragment, Heading, LineBreak } from 'jsx-md';
 
 import LinkWithLabel from './jsx-md/LinkWithLabel';
 import Img from './jsx-md/Img';
-import OneLineList from './jsx-md/OneLineList';
-import Br from './jsx-md/Br';
 
 const capitalizeFirstLetter = (string) => string.charAt(0).toUpperCase() + string.slice(1);
 
@@ -15,7 +13,7 @@ const DefaultLinkWithLabel = (props) => (
   <>
     <LinkWithLabel to={props.to}>
       <DefaultImg title={props.title} src={props.src} />
-      {`<sup> ${capitalizeFirstLetter(props.to)} </sup>`}
+      {`<sup> ${props.label} </sup>`}
     </LinkWithLabel>
     {props.drawSeparatorAfter && '<sup> · </sup>'}
     <LineBreak />
@@ -27,16 +25,19 @@ const contacts = [
     to: 'instagram',
     title: 'art.ginzburg',
     src: 'i.dlpng.com/static/png/6533778_preview.png',
+    label: 'Photos',
   },
   {
     to: 'mustapp',
     title: 'artginzburg',
     src: 'mustapp.com/static/images/logo_icon.svg',
+    label: 'Films',
   },
   {
     to: 'steam',
     title: 'artginzburg',
     src: 'toppng.com/public/uploads/thumbnail/ow-white-steam-icon-115629259929xjnhjlwag.png',
+    label: 'Games',
   },
 ];
 
