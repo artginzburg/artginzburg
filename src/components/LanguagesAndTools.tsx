@@ -47,6 +47,21 @@ function LanguagesAndTools() {
       <LineBreak />
       <Br />
       <LineBreak />
+      <LineBreak />
+      <Img
+        width="60"
+        src="https://media4.giphy.com/media/dUrFXgPZ90kVeok5rm/giphy.gif?cid=790b7611720de95ddc4288a31d15a3972003510f262a0104&rid=giphy.gif&ct=s"
+      />
+      <Img
+        width="66"
+        src="https://media4.giphy.com/media/dUrFXgPZ90kVeok5rm/giphy.gif?cid=790b7611720de95ddc4288a31d15a3972003510f262a0104&rid=giphy.gif&ct=s"
+      />
+      <Img
+        width="60"
+        src="https://media4.giphy.com/media/dUrFXgPZ90kVeok5rm/giphy.gif?cid=790b7611720de95ddc4288a31d15a3972003510f262a0104&rid=giphy.gif&ct=s"
+      />
+      <LineBreak />
+      <LineBreak />
     </>
   );
 }

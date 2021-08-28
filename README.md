@@ -1,9 +1,10 @@
-efficient Software Engineer from Moscow
+efficient Software Engineer from Moscow 
 
-* Position: Junior Frontend/Backend developer
+* Position: <sub><img width="30" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"></sub> Junior Frontend/Backend developer
 * Interests: bots, automation, single-purpose utilities, cinematography
 
 <img align="right" alt="GitHub User's stars" src="https://img.shields.io/github/stars/artginzburg?style=social">
+<img align="right" width="50" src="https://media3.giphy.com/media/UuMG0Cbm8iNoyEmZLG/giphy.gif?cid=790b7611a87df11186b66ec731e9d6246751ab8f5bf48db2&rid=giphy.gif&ct=s">
 <a href="https://www.npmjs.com/~artginzburg"><img align="right" alt="NPM Maintainer's downloads" src="https://img.shields.io/endpoint?url=https://artginzburg.runkit.io/npmstalk/branches/master/artginzburg"></a>
 
 ---
@@ -25,6 +26,9 @@ Contact me:   <sub> &nbsp; <sub>[<img title="ginzart | Telegram" src="https:/
 ![BEM](https://img.shields.io/badge/-bem-eee?style=for-the-badge&logo=BEM&logoColor=000)
 ![Figma](https://img.shields.io/badge/-figma-222?style=for-the-badge&logo=figma&logoColor=fff)
 <br>
+
+<img width="60" src="https://media4.giphy.com/media/dUrFXgPZ90kVeok5rm/giphy.gif?cid=790b7611720de95ddc4288a31d15a3972003510f262a0104&rid=giphy.gif&ct=s"><img width="66" src="https://media4.giphy.com/media/dUrFXgPZ90kVeok5rm/giphy.gif?cid=790b7611720de95ddc4288a31d15a3972003510f262a0104&rid=giphy.gif&ct=s"><img width="60" src="https://media4.giphy.com/media/dUrFXgPZ90kVeok5rm/giphy.gif?cid=790b7611720de95ddc4288a31d15a3972003510f262a0104&rid=giphy.gif&ct=s">
+
 ### Education
 
 * [Yandex.Praktikum][yapraktikum] | Jan, 2021 - Current
