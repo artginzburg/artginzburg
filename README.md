@@ -8,7 +8,7 @@ efficient Software Engineer from Moscow
 
 ---
 
-Contact me: <sub>[<img title="ginzart | Telegram" src="https://img.shields.io/static/v1?style=flat&message=ginzart&color=black&labelColor=rgba(0,0,0,0)&logo=telegram&label=">][telegram]</sub>
+Contact me: <sub> <sub> [<img title="ginzart | Telegram" src="https://img.shields.io/static/v1?style=flat&message=ginzart&color=black&labelColor=rgba(0,0,0,0)&logo=telegram&label=">][telegram]</sub></sub>
 
 ### Tech
 
