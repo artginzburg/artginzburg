@@ -1,14 +1,14 @@
 efficient Software Engineer from Moscow
 
-<img align="right" alt="GitHub User's stars" src="https://img.shields.io/github/stars/artginzburg?style=social">
-<a href="https://www.npmjs.com/~artginzburg"><img align="right" alt="NPM Maintainer's downloads" src="https://img.shields.io/endpoint?url=https://artginzburg.runkit.io/npmstalk/branches/master/artginzburg"></a>
-
 * Position: Junior Frontend/Backend developer
 * Interests: bots, automation, single-purpose utilities, cinematography
 
+<img align="right" alt="GitHub User's stars" src="https://img.shields.io/github/stars/artginzburg?style=social">
+<a href="https://www.npmjs.com/~artginzburg"><img align="right" alt="NPM Maintainer's downloads" src="https://img.shields.io/endpoint?url=https://artginzburg.runkit.io/npmstalk/branches/master/artginzburg"></a>
+
 ---
 
-Contact me: <sub> <sub> [<img title="ginzart | Telegram" src="https://img.shields.io/static/v1?style=flat&message=ginzart&color=black&labelColor=rgba(0,0,0,0)&logo=telegram&label=">][telegram]</sub></sub>
+Contact me:   <sub> &nbsp; <sub>[<img title="ginzart | Telegram" src="https://img.shields.io/static/v1?style=flat-square&message=@ginzart&color=eee&labelColor=rgba(0,0,0,0)&logo=telegram&label=t.me">][telegram]</sub></sub>
 
 ### Tech
 

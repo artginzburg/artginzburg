@@ -13,6 +13,11 @@ function Header() {
       {pkg.description}
       <LineBreak />
       <LineBreak />
+      <UnorderedList>
+        <>Position: Junior Frontend/Backend developer</>
+        <>Interests: bots, automation, single-purpose utilities, cinematography</>
+      </UnorderedList>
+      <LineBreak />
       <Img
         align="right"
         alt="GitHub User's stars"
@@ -27,11 +32,6 @@ function Header() {
       />
       {'</a>'}
       <LineBreak />
-      <LineBreak />
-      <UnorderedList>
-        <>Position: Junior Frontend/Backend developer</>
-        <>Interests: bots, automation, single-purpose utilities, cinematography</>
-      </UnorderedList>
       <LineBreak />
     </>
   );

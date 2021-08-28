@@ -19,11 +19,11 @@ function Contacts() {
       ---
       <LineBreak />
       <LineBreak />
-      Contact me: {'<sub> <sub> '}
+      Contact me: &nbsp; {'<sub> &nbsp; <sub>'}
       <LinkWithLabel to={telegramContact.to}>
         <Img
           title={`${telegramContact.title} | ${capitalizeFirstLetter(telegramContact.to)}`}
-          src={`https://img.shields.io/static/v1?style=flat&message=${telegramContact.title}&color=black&labelColor=rgba(0,0,0,0)&logo=${telegramContact.to}&label=`}
+          src={`https://img.shields.io/static/v1?style=flat-square&message=@${telegramContact.title}&color=eee&labelColor=rgba(0,0,0,0)&logo=${telegramContact.to}&label=t.me`}
         />
       </LinkWithLabel>
       {'</sub></sub>'}
