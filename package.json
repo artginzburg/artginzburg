@@ -1,7 +1,7 @@
 {
   "name": "artginzburg",
   "version": "1.0.0",
-  "description": "superpowered Software Engineer from Moscow",
+  "description": "efficient Software Engineer from Moscow",
   "scripts": {
     "build": "ts-node src/index.tsx",
     "start": "npm run watch",

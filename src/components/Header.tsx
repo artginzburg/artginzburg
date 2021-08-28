@@ -29,9 +29,8 @@ function Header() {
       <LineBreak />
       <LineBreak />
       <UnorderedList>
-        <>Middle Fullstack Web dev</>
-        <>Dives into bots, automation and pure shell tools</>
-        <>Good at cinematography =&gt; shadows and intuitive design</>
+        <>Position: Junior Frontend/Backend developer</>
+        <>Interests: bots, automation, single-purpose utilities, cinematography</>
       </UnorderedList>
       <LineBreak />
     </>

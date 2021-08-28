@@ -11,14 +11,14 @@ function Footer() {
   return (
     <>
       <LineBreak />
-      <LineBreak />
-      <Br />
-      <LineBreak />
-      <Br />
-      <LineBreak />
-      <LineBreak />
-      ---
-      <LineBreak />
+      {/* <LineBreak /> */}
+      {/* <Br /> */}
+      {/* <LineBreak /> */}
+      {/* <Br /> */}
+      {/* <LineBreak /> */}
+      {/* <LineBreak /> */}
+      {/* --- */}
+      {/* <LineBreak /> */}
       <LineBreak />
       <LinkReferences>{links}</LinkReferences>
       <LineBreak />

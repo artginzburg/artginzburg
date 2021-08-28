@@ -7,9 +7,9 @@ import OneLineList from './jsx-md/OneLineList';
 function LifeSkills() {
   return (
     <>
-      <Heading level={3}>Life skills</Heading>
+      <Heading level={3}>Soft skills</Heading>
       <OneLineList>
-        <>Critical thinking</>
+        <>Intuitive design</>
         <>Listening</>
         <>Making others think hard</>
       </OneLineList>

@@ -7,9 +7,10 @@ import Footer from './Footer';
 import Contacts from './Contacts';
 import LanguagesAndTools from './LanguagesAndTools';
 import Education from './Education';
-import TechnicalSkills from './TechnicalSkills';
+// import TechnicalSkills from './TechnicalSkills';
 import LifeSkills from './LifeSkills';
-import Languages from './Languages';
+import Socials from './Socials';
+// import Languages from './Languages';
 
 const Readme: Component = () => (
   <>
@@ -17,9 +18,10 @@ const Readme: Component = () => (
     <Contacts />
     <LanguagesAndTools />
     <Education />
-    <TechnicalSkills />
+    {/* <TechnicalSkills /> */}
     <LifeSkills />
-    <Languages />
+    <Socials />
+    {/* <Languages /> */}
     <Footer />
   </>
 );

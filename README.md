@@ -1,35 +1,30 @@
-superpowered Software Engineer from Moscow
+efficient Software Engineer from Moscow
 
 <img align="right" alt="GitHub User's stars" src="https://img.shields.io/github/stars/artginzburg?style=social">
 <a href="https://www.npmjs.com/~artginzburg"><img align="right" alt="NPM Maintainer's downloads" src="https://img.shields.io/endpoint?url=https://artginzburg.runkit.io/npmstalk/branches/master/artginzburg"></a>
 
-* Middle Fullstack Web dev
-* Dives into bots, automation and pure shell tools
-* Good at cinematography => shadows and intuitive design
+* Position: Junior Frontend/Backend developer
+* Interests: bots, automation, single-purpose utilities, cinematography
 
-### Contacts
+---
 
-[<img title="ginzart | Telegram" src="https://img.shields.io/static/v1?style=flat&message=ginzart&color=black&labelColor=rgba(0,0,0,0)&logo=telegram&label=">][telegram]
+Contact me: <sub>[<img title="ginzart | Telegram" src="https://img.shields.io/static/v1?style=flat&message=ginzart&color=black&labelColor=rgba(0,0,0,0)&logo=telegram&label=">][telegram]</sub>
 
-[<img align="left" width="22px" title="art.ginzburg | Instagram" src="https://i.dlpng.com/static/png/6533778_preview.png">][instagram]
-[<img align="left" width="22px" title="artginzburg | Mustapp" src="https://mustapp.com/static/images/logo_icon.svg">][mustapp]
-[<img align="left" width="22px" title="artginzburg | Steam" src="https://toppng.com/public/uploads/thumbnail/ow-white-steam-icon-115629259929xjnhjlwag.png">][steam]
+### Tech
 
+[![HTML](https://img.shields.io/badge/-HTML-eee?style=for-the-badge&logo=html5&logoColor=000)][html]
+![Git](https://img.shields.io/badge/-git-222?style=for-the-badge&logo=git&logoColor=fff)
+[![CSS](https://img.shields.io/badge/-CSS-eee?style=for-the-badge&logo=css3&logoColor=000)][css]
+[![TS](https://img.shields.io/badge/-TS-222?style=for-the-badge&logo=typescript&logoColor=fff)][js]
+[![ReactJs](https://img.shields.io/badge/-ReactJs-eee?style=for-the-badge&logo=react&logoColor=000)][react]
+[![NodeJs](https://img.shields.io/badge/-Node.js-222?style=for-the-badge&logo=node.js&logoColor=fff)][nodejs]
+[![MongoDB](https://img.shields.io/badge/-MongoDB-eee?style=for-the-badge&logo=mongodb&logoColor=000)][mongo]
+
+![PUG](https://img.shields.io/badge/-pug-eee?style=for-the-badge&logo=pug&logoColor=000)
+![Sass](https://img.shields.io/badge/-Sass-222?style=for-the-badge&logo=sass&logoColor=fff)
+![BEM](https://img.shields.io/badge/-bem-eee?style=for-the-badge&logo=BEM&logoColor=000)
+![Figma](https://img.shields.io/badge/-figma-222?style=for-the-badge&logo=figma&logoColor=fff)
 <br>
-
-### Languages and Tools
-
-[<img align="left" title="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">][vscode]
-[<img align="left" title="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">][html]
-[<img align="left" title="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">][css]
-[<img align="left" title="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">][js]
-[<img align="left" title="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">][react]
-[<img align="left" title="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">][nodejs]
-[<img align="left" title="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">][mongo]
-<img align="left" title="ShellScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
-
-<br>
-
 ### Education
 
 * [Yandex.Praktikum][yapraktikum] | Jan, 2021 - Current
@@ -40,24 +35,16 @@ superpowered Software Engineer from Moscow
 
   > Film · Computer Science · Business & Management
 
-### Technical skills
+### Soft skills
 
-Database management · Statistical analysis · User interface intuitive design
+Intuitive design · Listening · Making others think hard
 
-### Life skills
+### Socials
 
-Critical thinking · Listening · Making others think hard
+[<img width="22px" title="art.ginzburg | Instagram" src="https://i.dlpng.com/static/png/6533778_preview.png"><sup> Instagram </sup>][instagram]<sup> · </sup>
+[<img width="22px" title="artginzburg | Mustapp" src="https://mustapp.com/static/images/logo_icon.svg"><sup> Mustapp </sup>][mustapp]<sup> · </sup>
+[<img width="22px" title="artginzburg | Steam" src="https://toppng.com/public/uploads/thumbnail/ow-white-steam-icon-115629259929xjnhjlwag.png"><sup> Steam </sup>][steam]
 
-### Languages
-
-English <sup>9/10</sup> · Russian <sup>10/10</sup>
-
-JavaScript <sup>8/10</sup> · Swift <sup>6/10</sup> · Shell script <sup>6/10</sup>
-
-<br>
-<br>
-
----
 
 [instagram]: https://www.instagram.com/art.ginzburg/
 [steam]: https://steamcommunity.com/id/artginzburg

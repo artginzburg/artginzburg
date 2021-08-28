@@ -1,6 +1,6 @@
 /* @jsx MD */
 /* @jsxFrag Fragment */
-import MD, { Fragment, Heading, LineBreak } from 'jsx-md';
+import MD, { Fragment, Heading, LineBreak, Image } from 'jsx-md';
 
 import LinkWithLabel from './jsx-md/LinkWithLabel';
 import Img from './jsx-md/Img';
@@ -9,80 +9,43 @@ import Br from './jsx-md/Br';
 function LanguagesAndTools() {
   return (
     <>
-      <Heading level={3}>Languages and Tools</Heading>
-      <LinkWithLabel to="vscode">
-        <Img
-          align="left"
-          title="Visual Studio Code"
-          width="26px"
-          src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
-        />
+      <Heading level={3}>Tech</Heading>
+      <LinkWithLabel to="html">
+        ![HTML](https://img.shields.io/badge/-HTML-eee?style=for-the-badge&logo=html5&logoColor=000)
       </LinkWithLabel>
       <LineBreak />
-      <LinkWithLabel to="html">
-        <Img
-          align="left"
-          title="HTML5"
-          width="26px"
-          src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
-        />
-      </LinkWithLabel>
+      ![Git](https://img.shields.io/badge/-git-222?style=for-the-badge&logo=git&logoColor=fff)
       <LineBreak />
       <LinkWithLabel to="css">
-        <Img
-          align="left"
-          title="CSS3"
-          width="26px"
-          src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
-        />
+        ![CSS](https://img.shields.io/badge/-CSS-eee?style=for-the-badge&logo=css3&logoColor=000)
       </LinkWithLabel>
       <LineBreak />
       <LinkWithLabel to="js">
-        <Img
-          align="left"
-          title="JavaScript"
-          width="26px"
-          src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
-        />
+        ![TS](https://img.shields.io/badge/-TS-222?style=for-the-badge&logo=typescript&logoColor=fff)
       </LinkWithLabel>
       <LineBreak />
       <LinkWithLabel to="react">
-        <Img
-          align="left"
-          title="React"
-          width="26px"
-          src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
-        />
+        ![ReactJs](https://img.shields.io/badge/-ReactJs-eee?style=for-the-badge&logo=react&logoColor=000)
       </LinkWithLabel>
       <LineBreak />
       <LinkWithLabel to="nodejs">
-        <Img
-          align="left"
-          title="Node.js"
-          width="26px"
-          src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"
-        />
+        ![NodeJs](https://img.shields.io/badge/-Node.js-222?style=for-the-badge&logo=node.js&logoColor=fff)
       </LinkWithLabel>
       <LineBreak />
       <LinkWithLabel to="mongo">
-        <Img
-          align="left"
-          title="MongoDB"
-          width="26px"
-          src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"
-        />
+        ![MongoDB](https://img.shields.io/badge/-MongoDB-eee?style=for-the-badge&logo=mongodb&logoColor=000)
       </LinkWithLabel>
       <LineBreak />
-      <Img
-        align="left"
-        title="ShellScript"
-        width="26px"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"
-      />
       <LineBreak />
+      ![PUG](https://img.shields.io/badge/-pug-eee?style=for-the-badge&logo=pug&logoColor=000)
+      <LineBreak />
+      ![Sass](https://img.shields.io/badge/-Sass-222?style=for-the-badge&logo=sass&logoColor=fff)
+      <LineBreak />
+      ![BEM](https://img.shields.io/badge/-bem-eee?style=for-the-badge&logo=BEM&logoColor=000)
+      <LineBreak />
+      ![Figma](https://img.shields.io/badge/-figma-222?style=for-the-badge&logo=figma&logoColor=fff)
       <LineBreak />
       <Br />
-      <LineBreak />
       <LineBreak />
     </>
   );
