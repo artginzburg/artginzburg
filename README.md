@@ -33,7 +33,7 @@ Contact me:   <sub> &nbsp; <sub>[<img title="ginzart | Telegram" src="https:/
 
 * [International Baccalaureate® (IB) Diploma Programme (DP)][ibdp] | Sep, 2018 - Jun, 2020
 
-  > Film · Computer Science · Business & Management
+  > Film · Computer Science · Business & Management &nbsp; <kbd><a href="https://artginzburg.github.io/CASProject/">CAS Project</a></kbd>
 
 ### Soft skills
 

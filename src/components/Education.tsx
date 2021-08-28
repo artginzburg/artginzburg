@@ -40,8 +40,14 @@ function Education() {
             <OneLineList>
               <>Film</>
               <>Computer Science</>
-              <>Business & Management</>
+              <>Business & Management </>
             </OneLineList>
+            &amp;nbsp;&nbsp;
+            <Kbd>
+              {'<a href="https://artginzburg.github.io/CASProject/">'}
+              CAS Project
+              {'</a>'}
+            </Kbd>
           </QuoteBlockListItem>
         </IndentItem>
       </UnorderedListItem>
