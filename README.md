@@ -45,6 +45,9 @@ Intuitive design · Listening · Making others think hard
 [<img width="22px" title="artginzburg | Mustapp" src="https://mustapp.com/static/images/logo_icon.svg"><sup> Mustapp </sup>][mustapp]<sup> · </sup>
 [<img width="22px" title="artginzburg | Steam" src="https://toppng.com/public/uploads/thumbnail/ow-white-steam-icon-115629259929xjnhjlwag.png"><sup> Steam </sup>][steam]
 
+<div align="right">
+<a href="https://www.codewars.com/users/artginzburg"><img src="https://www.codewars.com/users/artginzburg/badges/micro" title="Codewars"></a>
+</div>
 
 [instagram]: https://www.instagram.com/art.ginzburg/
 [steam]: https://steamcommunity.com/id/artginzburg

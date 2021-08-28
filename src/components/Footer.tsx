@@ -4,21 +4,21 @@ import MD, { Fragment, LineBreak } from 'jsx-md';
 
 import links from '../utils/links';
 
-import Br from './jsx-md/Br';
+import Img from './jsx-md/Img';
 import LinkReferences from './jsx-md/LinkReferences';
 
 function Footer() {
   return (
     <>
       <LineBreak />
-      {/* <LineBreak /> */}
-      {/* <Br /> */}
-      {/* <LineBreak /> */}
-      {/* <Br /> */}
-      {/* <LineBreak /> */}
-      {/* <LineBreak /> */}
-      {/* --- */}
-      {/* <LineBreak /> */}
+      {'<div align="right">'}
+      <LineBreak />
+      {'<a href="https://www.codewars.com/users/artginzburg">'}
+      <Img src="https://www.codewars.com/users/artginzburg/badges/micro" title="Codewars" />
+      {'</a>'}
+      <LineBreak />
+      {'</div>'}
+      <LineBreak />
       <LineBreak />
       <LinkReferences>{links}</LinkReferences>
       <LineBreak />
