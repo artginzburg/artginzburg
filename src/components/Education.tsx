@@ -15,7 +15,7 @@ function Education() {
       <Heading level={3}>Education</Heading>
 
       <UnorderedListItem>
-        <LinkWithLabel to="yapraktikum">Yandex.Praktikum</LinkWithLabel> | Jan, 2021 - Current
+        <LinkWithLabel to="yapraktikum">Yandex.Praktikum</LinkWithLabel> | Jan, 2021 - Oct, 2021
         <LineBreak />
         <LineBreak />
         <IndentItem value="2">

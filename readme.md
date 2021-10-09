@@ -31,7 +31,7 @@ Contact me:   <sub> &nbsp; <sub>[<img title="ginzart | Telegram" src="https:/
 
 ### Education
 
-* [Yandex.Praktikum][yapraktikum] | Jan, 2021 - Current
+* [Yandex.Praktikum][yapraktikum] | Jan, 2021 - Oct, 2021
 
   > Web-Developer &nbsp; <kbd>[Portfolio][yapraktikum-webdev-portfolio]</kbd>
 
