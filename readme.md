@@ -11,6 +11,8 @@ efficient Software Engineer from Moscow
 
 Contact me:   <sub> &nbsp; <sub>[<img title="ginzart | Telegram" src="https://img.shields.io/static/v1?style=flat-square&message=@ginzart&color=eee&labelColor=rgba(0,0,0,0)&logo=telegram&label=t.me">][telegram]</sub></sub>
 
+`our kind has no use for hellos and goodbyes`
+
 ### Tech
 
 [![HTML](https://img.shields.io/badge/-HTML-eee?style=for-the-badge&logo=html5&logoColor=000)][html]

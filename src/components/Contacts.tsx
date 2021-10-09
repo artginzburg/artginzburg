@@ -29,6 +29,9 @@ function Contacts() {
       {'</sub></sub>'}
       <LineBreak />
       <LineBreak />
+      `our kind has no use for hellos and goodbyes`
+      <LineBreak />
+      <LineBreak />
     </>
   );
 }
