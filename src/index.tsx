@@ -6,7 +6,7 @@ import { writeFileSync } from 'fs';
 import Readme from './components/Readme';
 
 async function writeReadme() {
-  writeFileSync('README.md', await render(<Readme />));
+  writeFileSync('readme.md', await render(<Readme />));
 }
 
 void writeReadme();
