@@ -4,8 +4,7 @@
   "description": "efficient Software Engineer from Moscow",
   "scripts": {
     "build": "ts-node src/index.tsx",
-    "start": "npm run watch",
-    "watch": "nodemon --watch \"src/**\" --ext \"ts,tsx,json\" --ignore \"src/**/*.spec.ts\" --exec \"ts-node src/index.tsx\""
+    "start": "nodemon --watch \"src/**\" --ext \"ts,tsx,json\" --ignore \"src/**/*.spec.ts\" --exec \"ts-node src/index.tsx\""
   },
   "repository": {
     "type": "git",

@@ -52,6 +52,8 @@ Intuitive design · Listening · Making others think hard
 [<img width="21px" title="artginzburg | Steam" src="https://toppng.com/public/uploads/thumbnail/ow-white-steam-icon-115629259929xjnhjlwag.png"><sup> Games </sup>][steam]
 
 <div align="right">
+My coding stats since last week: <sub><a href="https://wakatime.com/@artginzburg"><img src="https://wakatime.com/badge/user/992f2c32-f468-4d6e-a817-ac32f0029edf.svg" title="Total time coded since Aug 29 2021"></a></sub>
+<br>
 <a href="https://www.codewars.com/users/artginzburg"><img src="https://www.codewars.com/users/artginzburg/badges/micro" title="Codewars"></a>
 </div>
 
