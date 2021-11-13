@@ -10,7 +10,7 @@ import Img from './jsx-md/Img';
 function Header() {
   return (
     <>
-      {pkg.description} <LineBreak />
+      {pkg.description}<LineBreak />
       <LineBreak />
       <UnorderedList>
         <>
@@ -20,6 +20,8 @@ function Header() {
         </>
         <>Interests: bots, automation, single-purpose utilities, cinematography</>
       </UnorderedList>
+      <LineBreak />
+      <>My notes: [gist.github.com](https://gist.github.com/artginzburg)</>
       <LineBreak />
       <Img
         align="right"
