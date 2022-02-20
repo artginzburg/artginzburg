@@ -7,6 +7,8 @@ import pkg from '../../package.json';
 import UnorderedList from './jsx-md/UnorderedList';
 import Img from './jsx-md/Img';
 
+const statsUrl = 'https://raw.githubusercontent.com/artginzburg/stats-fetcher/main/data.json';
+
 function Header() {
   return (
     <>
@@ -16,7 +18,7 @@ function Header() {
         <>
           Position: {'<sub>'}
           <Img width="30" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" />
-          {'</sub>'} Junior Frontend/Backend developer
+          {'</sub>'} Frontend/Backend developer
         </>
         <>Interests: bots, automation, single-purpose utilities, cinematography</>
       </UnorderedList>
@@ -39,9 +41,15 @@ function Header() {
       <Img
         align="right"
         alt="NPM Maintainer's downloads"
-        src="https://img.shields.io/endpoint?url=https://artginzburg.runkit.io/npmstalk/branches/master/artginzburg"
+        src={`https://img.shields.io/badge/dynamic/json?url=${statsUrl}&query=npmDownloads&style=social&logo=npm&label=downloads`}
       />
       {'</a>'}
+      <LineBreak />
+      <Img
+        align="right"
+        alt="GitHub user's downloads"
+        src={`https://img.shields.io/badge/dynamic/json?url=${statsUrl}&query=githubDownloads&style=social&logo=github&label=downloads`}
+      />
       <LineBreak />
       <LineBreak />
     </>
