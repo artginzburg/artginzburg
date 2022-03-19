@@ -14,6 +14,7 @@ const links = {
   react: 'reactjs.org/',
   nodejs: 'nodejs.org/en/',
   mongo: 'www.mongodb.com/',
+  datarubrik: 'datarubrik.com',
   yapraktikum: 'praktikum.yandex.ru/',
   'yapraktikum-webdev-portfolio': 'github.com/artginzburg/yandex.praktikum-portfolio',
   ibdp: 'www.ibo.org/programmes/diploma-programme/',

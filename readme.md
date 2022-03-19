@@ -33,6 +33,12 @@ Contact me:   <sub> &nbsp; <sub>[<img title="ginzart | Telegram" src="https:/
 
 <img width="60" src="https://media4.giphy.com/media/dUrFXgPZ90kVeok5rm/giphy.gif?cid=790b7611720de95ddc4288a31d15a3972003510f262a0104&rid=giphy.gif&ct=s"><img width="66" src="https://media4.giphy.com/media/dUrFXgPZ90kVeok5rm/giphy.gif?cid=790b7611720de95ddc4288a31d15a3972003510f262a0104&rid=giphy.gif&ct=s"><img width="60" src="https://media4.giphy.com/media/dUrFXgPZ90kVeok5rm/giphy.gif?cid=790b7611720de95ddc4288a31d15a3972003510f262a0104&rid=giphy.gif&ct=s">
 
+### Work
+
+* [Data Rubrik][datarubrik] | Nov, 2021 - Current
+
+  > Back-end & Front-end Web-Developer &nbsp; <kbd>Secret project</kbd>
+
 ### Education
 
 * [Yandex.Praktikum][yapraktikum] | Jan, 2021 - Oct, 2021
@@ -70,6 +76,7 @@ My coding stats since last week: <sub><a href="https://wakatime.com/@artginzburg
 [react]: https://reactjs.org/
 [nodejs]: https://nodejs.org/en/
 [mongo]: https://www.mongodb.com/
+[datarubrik]: https://datarubrik.com
 [yapraktikum]: https://praktikum.yandex.ru/
 [yapraktikum-webdev-portfolio]: https://github.com/artginzburg/yandex.praktikum-portfolio
 [ibdp]: https://www.ibo.org/programmes/diploma-programme/

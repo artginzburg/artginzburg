@@ -6,6 +6,7 @@ import Header from './Header';
 import Footer from './Footer';
 import Contacts from './Contacts';
 import LanguagesAndTools from './LanguagesAndTools';
+import Work from './Work';
 import Education from './Education';
 // import TechnicalSkills from './TechnicalSkills';
 import LifeSkills from './LifeSkills';
@@ -17,6 +18,7 @@ const Readme: Component = () => (
     <Header />
     <Contacts />
     <LanguagesAndTools />
+    <Work />
     <Education />
     {/* <TechnicalSkills /> */}
     <LifeSkills />
