@@ -5,7 +5,6 @@ efficient Software Engineer from Moscow
 
 My notes: [gist.github.com](https://gist.github.com/artginzburg)
 <img align="right" alt="GitHub User's stars" src="https://img.shields.io/github/stars/artginzburg?style=social">
-<img align="right" width="50" src="https://media3.giphy.com/media/UuMG0Cbm8iNoyEmZLG/giphy.gif?cid=790b7611a87df11186b66ec731e9d6246751ab8f5bf48db2&rid=giphy.gif&ct=s">
 <a href="https://www.npmjs.com/~artginzburg"><img align="right" alt="NPM Maintainer's downloads" src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/artginzburg/stats-fetcher/main/data.json&query=npmDownloads&style=social&logo=npm&label=downloads"></a>
 <img align="right" alt="GitHub user's downloads" src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/artginzburg/stats-fetcher/main/data.json&query=githubDownloads&style=social&logo=github&label=downloads">
 

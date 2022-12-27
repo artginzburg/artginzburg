@@ -31,12 +31,13 @@ function Header() {
         src="https://img.shields.io/github/stars/artginzburg?style=social"
       />
       <LineBreak />
-      <Img
+      {/* The following image is commented out 'cause it might (and sometimes does) mess up the positioning of the badges */}
+      {/* <Img
         align="right"
         width="50"
         src="https://media3.giphy.com/media/UuMG0Cbm8iNoyEmZLG/giphy.gif?cid=790b7611a87df11186b66ec731e9d6246751ab8f5bf48db2&rid=giphy.gif&ct=s"
-      />
-      <LineBreak />
+      /> */}
+      {/* <LineBreak /> */}
       {'<a href="https://www.npmjs.com/~artginzburg">'}
       <Img
         align="right"
