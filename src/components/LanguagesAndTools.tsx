@@ -7,6 +7,8 @@ import Img from './jsx-md/Img';
 import Br from './jsx-md/Br';
 
 function LanguagesAndTools() {
+  const eyeImageSrc = 'https://media4.giphy.com/media/dUrFXgPZ90kVeok5rm/giphy.gif?cid=790b7611720de95ddc4288a31d15a3972003510f262a0104&rid=giphy.gif&ct=s';
+
   return (
     <>
       <Heading level={3}>Tech</Heading>
@@ -50,15 +52,15 @@ function LanguagesAndTools() {
       <LineBreak />
       <Img
         width="60"
-        src="https://media4.giphy.com/media/dUrFXgPZ90kVeok5rm/giphy.gif?cid=790b7611720de95ddc4288a31d15a3972003510f262a0104&rid=giphy.gif&ct=s"
+        src={eyeImageSrc}
       />
       <Img
         width="66"
-        src="https://media4.giphy.com/media/dUrFXgPZ90kVeok5rm/giphy.gif?cid=790b7611720de95ddc4288a31d15a3972003510f262a0104&rid=giphy.gif&ct=s"
+        src={eyeImageSrc}
       />
       <Img
         width="60"
-        src="https://media4.giphy.com/media/dUrFXgPZ90kVeok5rm/giphy.gif?cid=790b7611720de95ddc4288a31d15a3972003510f262a0104&rid=giphy.gif&ct=s"
+        src={eyeImageSrc}
       />
       <LineBreak />
       <LineBreak />
