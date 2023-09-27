@@ -19,3 +19,5 @@ I eventually started making/reviving solo projects, which got me comfortable wit
 I spent half my gap year chasing girls and parties, so much that I needed therapy afterwards. Then went through a 10-month Yandex course on MERN stack scoring 100% on the final exam and helping fellow students along the way, got well with TypeScript, and found a job doing that. Having entered the commercial world, I've been occasionally jumping into small products in spare time, getting invited via word of mouth.
 
 By the way, I'm looking for a full-time job right now.
+
+CV: [rsm.io/gin](https://rsm.io/gin)
