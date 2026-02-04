@@ -1,23 +1,25 @@
 # Why are you here?
-I build stuff for myself, show it to my friends, they say they need it too, I polish it up and publish.
+I build tools to solve **concrete problems** and test ideas in practice. When they prove useful to others, I refine and ship them, learning from *real usage*.
 
-Also, I use GitHub as a way to socialize without the dopaminergic effects of social networks, and as a hobby since it matches up with my desire to improve the daily life of other people.
+GitHub is my space to explore ideas publicly, improve my craft, and collaborate asynchronously. It’s a place for **long-form thinking**, experimentation, and shaping solutions that make everyday workflows smoother.
 
-## Why is your stuff non-commercial?
-Money does not scale very well as a motivating factor for me. Furthermore, deciding what to build based solely on the probability of making profit greatly limits the scope of what I can do, because I don't have the marketing skills to sell something really niche, but I do have the skills to develop it, so just developing it to get feedback and experience is better than doing nothing due to a lack of profitable options.
+These projects are driven by *curiosity* and **practical usefulness**. Working this way allows me to tackle *niche problems*, experiment with **architectural approaches**, and iterate quickly, all while developing **patterns, techniques, and decisions** that later inform my **commercial work**.
 
 ## What's your role?
-I'm a wildcard, or in other words I steer away from ever hitting the point of specializing too much in one particular thing, and this is intentional. I strive to be independent and useful in many contexts.
+I aim to be a **high-leverage engineer** who can operate effectively in many contexts, with **core expertise in frontend**.
 
-While I appreciate my teammates and partners more than anything, I don't want to rely 100% on them being present/productive/interested.
+I’m comfortable moving between _exploration, implementation, optimization, and maintenance_, taking responsibility for **outcomes** rather than just tasks. I value **clear communication and collaboration** as much as technical execution.
 
 ## Origin
-I started with Pascal ABC in primary, did exceptionally well in class, destroyed the school high scores in typing speed, forgot about it for 5 years, transferred to a new school, met a guy that showed me his website with a custom domain, and realized that I want to do that. He taught me his skills in HTML and CSS, a pinch of PHP, and from that point we partnered up in building creative websites for our school and friends using primarily JS, which was new for both of us.
+I started with `Pascal` in primary. After school transfer, I once saw a website that made me question how it's made. A classmate introduced me to `HTML`, `CSS`, and `PHP`, and I started building creative websites for events and local communities using primarily `JavaScript`.
 
-I eventually started making/reviving solo projects, which got me comfortable with Objective-C, Swift, Bash, and even something as weird as AppleScript.
+I quickly expanded into native development (`Objective-C` / `Swift`) and scripting (`Bash` / `AppleScript`), before moving to **full web stack**.
 
-I spent half my gap year chasing girls and parties, so much that I needed therapy afterwards. Then went through a 10-month Yandex course on MERN stack scoring 100% on the final exam and helping fellow students along the way, got well with TypeScript, and found a job doing that. Having entered the commercial world, I've been occasionally jumping into small products in spare time, getting invited via word of mouth.
+During my gap year, I went through a **10-month Yandex course on MERN stack**, scoring **100% on the final exam** and helping fellow students along the way. Since then, I’ve been working professionally with `TypeScript` and **React-based stacks**, contributing to both product companies and smaller teams through long-term roles and referrals.
 
-By the way, I'm looking for a full-time job right now.
+Alongside my professional work, I later explored `Java` by building **Minecraft mods**, to experiment with **language features, APIs, and non-web development constraints**.
 
-CV: [rsm.io/gin](https://rsm.io/gin)
+## Current status
+I’m open to **full-time frontend roles** where I can work on meaningful products, contribute to **architecture and quality**, and grow alongside a strong team.
+
+More on my commercial experience: [in/artginzburg](https://www.linkedin.com/in/artginzburg/)
